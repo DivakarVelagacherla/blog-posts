@@ -12,8 +12,6 @@ categories: Problem → Solution
 readTime: 6
 ---
 
-# Why Our API Was Slow and the Fix Wasn't the Database
-
 ## The Alert Nobody Wanted
 
 A Slack message from the PM: _"Users are complaining the dashboard is taking forever to load. Can you look into it?"_
