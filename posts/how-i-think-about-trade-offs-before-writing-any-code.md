@@ -2,9 +2,7 @@
 title: "How I Think About Trade-offs Before Writing Any Code"
 date: 2026-04-13
 slug: "how-i-think-about-trade-offs-before-writing-any-code"
-phase: "Engineering Foundations & Mindset"
-type: "Architecture Thinking"
-summary: "The 3 questions I ask before picking any tech solution — and why the right answer always depends on context, not convention."
+summary: "How do you decide what technology to use before writing a single line of code? It starts with three questions — and the answer is never about what sounds impressive."
 categories: Software Architecture
 readTime: 5
 ---
