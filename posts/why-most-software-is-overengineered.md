@@ -1,13 +1,10 @@
-```yaml
+---
 title: "Why Most Software is Overengineered"
 date: 2026-04-06
 slug: "why-most-software-is-overengineered"
 summary: "The dangerous default of building for 10x scale on day one — and why the engineers I trust most push back on unnecessary complexity before a single line of code is written."
-categories:
-  - Engineering Mindset
+categories: Engineering Mindset
 readTime: 4
-```
-
 ---
 
 # Why Most Software is Overengineered
