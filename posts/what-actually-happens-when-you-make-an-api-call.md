@@ -12,8 +12,6 @@ categories: Learning → Explanation
 readTime: 6
 ---
 
-# What Actually Happens When You Make an API Call
-
 ## The Tap That Hides a Thousand Steps
 
 You open your weather app. You tap it. Half a second later you see today's forecast.

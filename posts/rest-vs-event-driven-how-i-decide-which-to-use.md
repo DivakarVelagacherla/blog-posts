@@ -12,8 +12,6 @@ categories: Architecture Thinking
 readTime: 6
 ---
 
-# REST vs Event-Driven: How I Decide Which to Use
-
 ## The Wrong Question
 
 Most architecture discussions about REST vs event-driven start with the wrong question.

@@ -7,8 +7,6 @@ categories: Engineering Mindset
 readTime: 4
 ---
 
-# Why Most Software is Overengineered
-
 ## The Dangerous Default
 
 Most engineers, when starting a new feature, ask the wrong question.

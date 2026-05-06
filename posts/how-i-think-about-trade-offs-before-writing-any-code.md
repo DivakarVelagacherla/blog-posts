@@ -7,8 +7,6 @@ categories: Software Architecture
 readTime: 5
 ---
 
-# How I Think About Trade-offs Before Writing Any Code
-
 ## The Question That Changes Everything
 
 A PM walks up to you and says — _"We need to add search to the app."_
