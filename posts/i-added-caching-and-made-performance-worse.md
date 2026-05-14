@@ -12,8 +12,6 @@ categories: Backend Engineering
 readTime: 6
 ---
 
-# I Added Caching and Made Performance Worse
-
 ## The Obvious Fix That Wasn't
 
 App is slow. Users are complaining. You've heard caching fixes performance problems.
