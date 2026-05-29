@@ -1,7 +1,7 @@
 ---
 title: "The Most Underrated Skill in Software Engineering"
 
-date: 2026-05-25
+date: 2026-05-29
 
 slug: "the-most-underrated-skill-in-software-engineering"
 
